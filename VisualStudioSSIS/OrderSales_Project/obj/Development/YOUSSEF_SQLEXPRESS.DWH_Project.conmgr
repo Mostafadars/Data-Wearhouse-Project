@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="YOUSSEF_SQLEXPRESS.DWH_Project"
+  DTS:DTSID="{3DBF4BB6-19B0-48B0-9B1B-787B5B2FE801}"
+  DTS:CreationName="ADO">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=DESKTOP-063EIOC;Initial Catalog=DWH_Project;Provider=SQLOLEDB.1;Integrated Security=SSPI;Auto Translate=False;Application Name=SSIS-OrderSales_Project-{3DBF4BB6-19B0-48B0-9B1B-787B5B2FE801}YOUSSEF\SQLEXPRESS.DWH_Project;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

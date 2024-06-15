@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="YOUSSEF_SQLEXPRESS.AdventureWorks2022"
+  DTS:DTSID="{24E61596-F0C9-457D-A273-D7F8725B2140}"
+  DTS:CreationName="ADO">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=DESKTOP-063EIOC;Initial Catalog=AdventureWorks2022;Provider=SQLOLEDB.1;Integrated Security=SSPI;Auto Translate=False;Application Name=SSIS-OrderSales_Project-{24E61596-F0C9-457D-A273-D7F8725B2140}YOUSSEF\SQLEXPRESS.AdventureWorks2022;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
